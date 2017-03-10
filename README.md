@@ -16,3 +16,10 @@ A collection of information/data that has an interface
 - find
 - update
 - remove
+- 
+
+# CRUD
+- Create
+- Read
+- Update
+- Destroy
